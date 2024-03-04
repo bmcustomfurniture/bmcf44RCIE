@@ -13705,6 +13705,20 @@
           "_global": true,
           "_once": false,
           "_params": {}
+        },
+        {
+          "alias": "eb-instagram-feed",
+          "_isSecondary": true,
+          "_styles": {},
+          "_name": "eb-instagram-feed",
+          "_sourceTheme": "woodm4",
+          "_customHTML": "<section class=\"elb-widgets\" group=\"Widget\">\n    <div class=\"container custom-widget\">\n        <div class=\"row\">\n            <div style=\"text-align: center; overflow: hidden\" class=\"col-lg-8 mx-auto\">\n                <h4 class=\"align-center display-1\" style=\"color:#777\">Instagram Feed</h4>\n                <div class=\"align-center\">\n                    <svg style=\"width: 65px; height: 65px; color: #777;fill: #777; margin-top: 2rem; margin-bottom: 3rem;\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n                        <path d=\"M0 24h10V14H0v10zm2-8h6v6H2v-6zm-2-4h10V2H0v10zm2-8h6v6H2V4zm10 20h10V14H12v10zm2-8h6v6h-6v-6zm1.7-8.2L12 5h4.6L18 1l1.4 4H24l-3.7 2.8 1.4 4.2L18 9.4 14.3 12l1.4-4.2z\"></path>\n                    </svg>\n                </div>\n                <p class=\"align-center display-2\" style=\"color:#777\">Click to edit Instagram Feed</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "u65wnY09dx",
+          "_anchor": "eb-instagram-feed-bq",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
         }
       ]
     }
